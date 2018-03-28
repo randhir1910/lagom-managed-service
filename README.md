@@ -1,2 +1,1 @@
 # lagom-managed-service
-CRUD
